@@ -7,11 +7,13 @@ sites:
     url: https://www.maxthon.com
   - name: Maxthon API
     url: https://api.maxthon.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Maxthon User DB
+    url: http://34.195.2.150:19000
+  - name: Maxthon Sync
+    url: https://syncapi.maxthon.com
+  - name: Maxthon Log
+    url: https://mxpush.mxfast.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
