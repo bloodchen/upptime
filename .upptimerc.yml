@@ -8,7 +8,7 @@ sites:
   - name: Maxthon API
     url: https://api.maxthon.com
   - name: Maxthon User DB
-    url: http://34.195.2.150:19000
+    url: http://34.195.2.150:19000/api/tld
   - name: Maxthon Sync
     url: https://syncapi.maxthon.com
   - name: Maxthon Log
