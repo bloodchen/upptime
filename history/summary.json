@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 109,
-    "timeWeek": 245,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 255,
+    "timeDay": 239,
+    "timeWeek": 242,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.maxthon.com.ico",
     "slug": "maxthon-api",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 254,
-    "timeDay": 277,
-    "timeWeek": 258,
-    "timeMonth": 254,
-    "timeYear": 254,
-    "dailyMinutesDown": {
-      "2024-04-02": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 251,
+    "timeDay": 231,
+    "timeWeek": 240,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Maxthon User DB",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 135,
-    "timeWeek": 64,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 56,
+    "timeDay": 4,
+    "timeWeek": 50,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 237,
-    "timeWeek": 393,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 412,
+    "timeDay": 472,
+    "timeWeek": 424,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 250,
-    "timeWeek": 424,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 437,
+    "timeDay": 572,
+    "timeWeek": 471,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   }
 ]
