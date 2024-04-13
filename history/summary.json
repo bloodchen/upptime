@@ -58,18 +58,20 @@
     "url": "https://syncapi.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/syncapi.maxthon.com.ico",
     "slug": "maxthon-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 293,
-    "timeWeek": 379,
-    "timeMonth": 391,
-    "timeYear": 391,
-    "dailyMinutesDown": {}
+    "time": 394,
+    "timeDay": 376,
+    "timeWeek": 389,
+    "timeMonth": 394,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "Maxthon Log",
