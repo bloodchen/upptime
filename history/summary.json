@@ -22,18 +22,20 @@
     "url": "https://api.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.maxthon.com.ico",
     "slug": "maxthon-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 130,
-    "timeWeek": 294,
-    "timeMonth": 307,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 232,
+    "timeWeek": 299,
+    "timeMonth": 308,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2024-04-24": 0
+    }
   },
   {
     "name": "Maxthon User DB",
