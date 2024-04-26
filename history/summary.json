@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 260,
-    "timeWeek": 318,
+    "time": 272,
+    "timeDay": 282,
+    "timeWeek": 328,
     "timeMonth": 272,
-    "timeYear": 271,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 312,
-    "timeWeek": 267,
+    "time": 290,
+    "timeDay": 309,
+    "timeWeek": 273,
     "timeMonth": 293,
-    "timeYear": 289,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 57,
-    "timeWeek": 43,
-    "timeMonth": 61,
-    "timeYear": 60,
+    "time": 59,
+    "timeDay": 19,
+    "timeWeek": 25,
+    "timeMonth": 58,
+    "timeYear": 59,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://syncapi.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/syncapi.maxthon.com.ico",
     "slug": "maxthon-sync",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.74%",
-    "time": 4291,
-    "timeDay": 12327,
-    "timeWeek": 9337,
-    "timeMonth": 4677,
-    "timeYear": 4291,
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.75%",
+    "time": 4390,
+    "timeDay": 12403,
+    "timeWeek": 9527,
+    "timeMonth": 4859,
+    "timeYear": 4390,
     "dailyMinutesDown": {
-      "2024-04-26": 131
+      "2024-04-26": 125
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 549,
-    "timeWeek": 487,
-    "timeMonth": 466,
-    "timeYear": 461,
+    "time": 462,
+    "timeDay": 527,
+    "timeWeek": 531,
+    "timeMonth": 475,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   }
 ]
