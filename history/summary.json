@@ -58,19 +58,19 @@
     "url": "https://syncapi.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/syncapi.maxthon.com.ico",
     "slug": "maxthon-sync",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "95.29%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.86%",
-    "time": 3241,
-    "timeDay": 12859,
-    "timeWeek": 8449,
-    "timeMonth": 3568,
-    "timeYear": 3241,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.84%",
+    "time": 3180,
+    "timeDay": 11809,
+    "timeWeek": 7994,
+    "timeMonth": 3493,
+    "timeYear": 3180,
     "dailyMinutesDown": {
-      "2024-04-26": 68
+      "2024-04-26": 77
     }
   },
   {
