@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 280,
-    "timeWeek": 314,
+    "time": 273,
+    "timeDay": 335,
+    "timeWeek": 299,
     "timeMonth": 270,
-    "timeYear": 272,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.maxthon.com.ico",
     "slug": "maxthon-api",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
-    "time": 282,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 284,
-    "timeYear": 282,
+    "uptime": "99.92%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
+    "time": 281,
+    "timeDay": 253,
+    "timeWeek": 259,
+    "timeMonth": 285,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-04-28": 30,
+      "2024-04-28": 23,
       "2024-04-27": 21
     }
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 142,
+    "time": 60,
+    "timeDay": 13,
     "timeWeek": 44,
     "timeMonth": 62,
-    "timeYear": 61,
+    "timeYear": 60,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 4249,
-    "timeDay": 196,
-    "timeWeek": 9162,
+    "time": 4187,
+    "timeDay": 554,
+    "timeWeek": 9168,
     "timeMonth": 4765,
-    "timeYear": 4249,
+    "timeYear": 4187,
     "dailyMinutesDown": {
       "2024-04-26": 125
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 252,
-    "timeWeek": 494,
-    "timeMonth": 466,
-    "timeYear": 457,
+    "time": 460,
+    "timeDay": 567,
+    "timeWeek": 493,
+    "timeMonth": 467,
+    "timeYear": 460,
     "dailyMinutesDown": {}
   }
 ]
