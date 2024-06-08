@@ -24,17 +24,16 @@
     "slug": "maxthon-api",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.72%",
     "time": 278,
-    "timeDay": 280,
-    "timeWeek": 278,
+    "timeDay": 307,
+    "timeWeek": 282,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-06-08": 7,
       "2024-06-01": 27,
       "2024-05-31": 1,
       "2024-05-30": 24,
@@ -95,9 +94,9 @@
     "url": "https://mxpush.mxfast.com",
     "icon": "https://icons.duckduckgo.com/ip3/mxpush.mxfast.com.ico",
     "slug": "maxthon-log",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +105,8 @@
     "timeWeek": 481,
     "timeMonth": 477,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-08": 0
+    }
   }
 ]
