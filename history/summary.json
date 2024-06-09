@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 230,
-    "timeWeek": 241,
+    "timeDay": 249,
+    "timeWeek": 240,
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.72%",
     "time": 278,
-    "timeDay": 307,
-    "timeWeek": 282,
-    "timeMonth": 278,
+    "timeDay": 265,
+    "timeWeek": 280,
+    "timeMonth": 277,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2024-06-01": 27,
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 48,
-    "timeWeek": 54,
-    "timeMonth": 88,
+    "timeDay": 4,
+    "timeWeek": 52,
+    "timeMonth": 85,
     "timeYear": 72,
     "dailyMinutesDown": {}
   },
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 2731,
-    "timeDay": 893,
-    "timeWeek": 782,
-    "timeMonth": 745,
-    "timeYear": 2731,
+    "time": 2711,
+    "timeDay": 719,
+    "timeWeek": 771,
+    "timeMonth": 756,
+    "timeYear": 2711,
     "dailyMinutesDown": {
       "2024-04-26": 125
     }
@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mxpush.mxfast.com.ico",
     "slug": "maxthon-log",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 2605,
-    "timeWeek": 1005,
-    "timeMonth": 604,
+    "timeDay": 2588,
+    "timeWeek": 1001,
+    "timeMonth": 612,
     "timeYear": 517,
-    "dailyMinutesDown": {
-      "2024-06-08": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
