@@ -1,7 +1,7 @@
 url: https://api.maxthon.com
-status: down
-code: 502
-responseTime: 306
-lastUpdated: 2024-07-17T11:58:20.971Z
+status: up
+code: 200
+responseTime: 162
+lastUpdated: 2024-07-17T12:10:21.037Z
 startTime: 2024-03-23T11:53:49.446Z
 generator: Upptime <https://github.com/upptime/upptime>
