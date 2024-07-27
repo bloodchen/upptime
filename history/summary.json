@@ -26,12 +26,12 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.11%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.43%",
     "time": 304,
     "timeDay": 290,
-    "timeWeek": 291,
-    "timeMonth": 311,
+    "timeWeek": 289,
+    "timeMonth": 310,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-07-17": 44,
@@ -69,9 +69,9 @@
     "url": "http://34.195.2.150:19000/api/tld",
     "icon": "https://icons.duckduckgo.com/ip3/34.195.2.150.ico",
     "slug": "maxthon-user-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,7 +80,9 @@
     "timeWeek": 50,
     "timeMonth": 108,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   },
   {
     "name": "Maxthon Sync",
