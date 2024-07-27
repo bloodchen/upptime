@@ -69,19 +69,19 @@
     "url": "http://34.195.2.150:19000/api/tld",
     "icon": "https://icons.duckduckgo.com/ip3/34.195.2.150.ico",
     "slug": "maxthon-user-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 5,
-    "timeWeek": 50,
-    "timeMonth": 108,
-    "timeYear": 78,
+    "time": 77,
+    "timeDay": 9,
+    "timeWeek": 45,
+    "timeMonth": 105,
+    "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 7
     }
   },
   {
