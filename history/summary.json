@@ -92,9 +92,9 @@
     "slug": "maxthon-sync",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1881,
     "timeDay": 873,
@@ -102,7 +102,6 @@
     "timeMonth": 803,
     "timeYear": 1881,
     "dailyMinutesDown": {
-      "2024-08-20": 13,
       "2024-04-26": 125
     }
   },
