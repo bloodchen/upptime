@@ -72,9 +72,9 @@
     "url": "http://34.195.2.150:19000/api/tld",
     "icon": "https://icons.duckduckgo.com/ip3/34.195.2.150.ico",
     "slug": "maxthon-user-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,7 +83,9 @@
     "timeWeek": 33,
     "timeMonth": 80,
     "timeYear": 79,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-23": 0
+    }
   },
   {
     "name": "Maxthon Sync",
