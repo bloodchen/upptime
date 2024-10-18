@@ -22,12 +22,12 @@
     "url": "https://api.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.maxthon.com.ico",
     "slug": "maxthon-api",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "39.96%",
-    "uptimeWeek": "48.94%",
-    "uptimeMonth": "88.25%",
-    "uptimeYear": "98.29%",
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "40.61%",
+    "uptimeWeek": "49.61%",
+    "uptimeMonth": "88.40%",
+    "uptimeYear": "98.31%",
     "time": 312,
     "timeDay": 254,
     "timeWeek": 307,
@@ -40,7 +40,7 @@
       "2024-10-15": 932,
       "2024-10-14": 943,
       "2024-10-13": 915,
-      "2024-10-12": 104
+      "2024-10-12": 36
     }
   },
   {
