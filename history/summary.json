@@ -13,7 +13,7 @@
     "time": 316,
     "timeDay": 225,
     "timeWeek": 356,
-    "timeMonth": 369,
+    "timeMonth": 366,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "maxthon-api",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "35.63%",
+    "uptimeDay": "36.57%",
     "uptimeWeek": "49.01%",
     "uptimeMonth": "88.27%",
     "uptimeYear": "98.39%",
     "time": 310,
     "timeDay": 274,
     "timeWeek": 305,
-    "timeMonth": 308,
+    "timeMonth": 309,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-10-30": 921,
@@ -56,7 +56,7 @@
     "time": 129,
     "timeDay": 135,
     "timeWeek": 43,
-    "timeMonth": 85,
+    "timeMonth": 83,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-08-23": 23
@@ -76,7 +76,7 @@
     "time": 1612,
     "timeDay": 606,
     "timeWeek": 706,
-    "timeMonth": 878,
+    "timeMonth": 879,
     "timeYear": 1612,
     "dailyMinutesDown": {
       "2024-10-30": 39,
@@ -99,7 +99,7 @@
     "time": 645,
     "timeDay": 412,
     "timeWeek": 482,
-    "timeMonth": 1256,
+    "timeMonth": 1235,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2024-10-30": 17,
