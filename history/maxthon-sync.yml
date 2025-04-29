@@ -1,7 +1,7 @@
 url: https://syncapi.maxthon.com
-status: down
-code: 500
-responseTime: 102
-lastUpdated: 2025-04-29T00:09:55.602Z
+status: up
+code: 200
+responseTime: 310
+lastUpdated: 2025-04-29T00:37:11.126Z
 startTime: 2024-03-23T12:32:06.525Z
 generator: Upptime <https://github.com/upptime/upptime>
