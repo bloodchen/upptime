@@ -4,18 +4,20 @@
     "url": "https://www.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.maxthon.com.ico",
     "slug": "maxthon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
+    "time": 288,
     "timeDay": 236,
     "timeWeek": 297,
     "timeMonth": 240,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   },
   {
     "name": "Maxthon API",
