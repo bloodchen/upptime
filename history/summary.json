@@ -4,19 +4,19 @@
     "url": "https://www.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.maxthon.com.ico",
     "slug": "maxthon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 236,
-    "timeWeek": 297,
-    "timeMonth": 240,
+    "time": 289,
+    "timeDay": 211,
+    "timeWeek": 283,
+    "timeMonth": 238,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 6
     }
   },
   {
