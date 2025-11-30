@@ -11,10 +11,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 271,
-    "timeDay": 242,
-    "timeWeek": 231,
-    "timeMonth": 227,
-    "timeYear": 253,
+    "timeDay": 171,
+    "timeWeek": 238,
+    "timeMonth": 225,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-11-18": 108
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.maxthon.com.ico",
     "slug": "maxthon-api",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.95%",
     "time": 269,
-    "timeDay": 161,
-    "timeWeek": 216,
+    "timeDay": 167,
+    "timeWeek": 228,
     "timeMonth": 183,
-    "timeYear": 265,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2025-11-18": 120,
       "2025-04-15": 76,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.66%",
-    "time": 1352,
-    "timeDay": 348,
-    "timeWeek": 289,
-    "timeMonth": 238,
-    "timeYear": 1452,
+    "time": 1351,
+    "timeDay": 115,
+    "timeWeek": 284,
+    "timeMonth": 233,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2025-07-26": 16,
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "96.54%",
-    "time": 682,
-    "timeDay": 312,
-    "timeWeek": 238,
-    "timeMonth": 360,
-    "timeYear": 662,
+    "time": 681,
+    "timeDay": 134,
+    "timeWeek": 246,
+    "timeMonth": 356,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-03-21": 217,
@@ -132,8 +132,7 @@
       "2024-12-17": 51,
       "2024-12-16": 19,
       "2024-12-12": 84,
-      "2024-12-05": 37,
-      "2024-11-30": 137
+      "2024-12-05": 37
     }
   }
 ]
