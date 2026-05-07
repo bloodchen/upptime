@@ -13,22 +13,27 @@ sites:
     url: https://mxpush.mxfast.com
   - name: SearchBaby Harbour
     url: https://w.maxask.com/?q=Quantum+Computing&sid=harbour&country=us&monitor_token=searchbaby-upptime-20260507
+    maxRedirects: 0
     expectedStatusCodes:
       - 302
   - name: SearchBaby MX iOS
     url: https://w.maxask.com/?q=Quantum+Computing&sid=mxios&country=us&monitor_token=searchbaby-upptime-20260507
+    maxRedirects: 0
     expectedStatusCodes:
       - 302
   - name: SearchBaby MX Win
     url: https://w.maxask.com/?q=Quantum+Computing&sid=mxwin&country=us&monitor_token=searchbaby-upptime-20260507
+    maxRedirects: 0
     expectedStatusCodes:
       - 302
   - name: SearchBaby XB
     url: https://w.maxask.com/?q=Quantum+Computing&sid=xb&country=us&monitor_token=searchbaby-upptime-20260507
+    maxRedirects: 0
     expectedStatusCodes:
       - 302
   - name: SearchBaby Fallback
     url: https://w.maxask.com/?q=Quantum+Computing&sid=unknown&country=us&monitor_token=searchbaby-upptime-20260507
+    maxRedirects: 0
     expectedStatusCodes:
       - 302
 
