@@ -47,21 +47,22 @@
     "url": "https://syncapi.maxthon.com",
     "icon": "https://icons.duckduckgo.com/ip3/syncapi.maxthon.com.ico",
     "slug": "maxthon-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "99.81%",
     "time": 411,
-    "timeDay": 207,
-    "timeWeek": 233,
-    "timeMonth": 1489,
-    "timeYear": 391,
+    "timeDay": 123,
+    "timeWeek": 209,
+    "timeMonth": 1447,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2025-11-18": 113,
       "2026-09-12": 845,
-      "2026-09-11": 18
+      "2026-09-11": 18,
+      "2026-09-25": 0
     }
   },
   {
